@@ -3,9 +3,6 @@ h1{
 
 }
 
-.dropright {
-    margin-left: auto;
-}
 body {
     background-color: lightblue;
 }
@@ -17,4 +14,13 @@ body {
     background-color: lightgreen;
     color: white;
     text-align: center;
- }
+}
+img{
+    width: 250px;
+}
+
+
+  
+		
+
+            
