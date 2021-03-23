@@ -4,23 +4,26 @@ h1{
 }
 
 body {
-    background-color: lightblue;
+    background-color: orangered;
 }
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: lightgreen;
+    background-color: lightslategray;
     color: white;
     text-align: center;
 }
-img{
-    width: 250px;
+.pict{
+    width: 325px;
+    height: 310px;
+}
+.homepage{
+    text-align: center;
+    font-size: 40px;
 }
 
-
-  
-		
-
-            
+.container-fluid{
+    background-color: lightslategray;
+}
