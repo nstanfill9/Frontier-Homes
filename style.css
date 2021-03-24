@@ -19,6 +19,7 @@ body {
     width: 325px;
     height: 310px;
 }
+
 .homepage{
     text-align: center;
     font-size: 40px;
@@ -26,4 +27,8 @@ body {
 
 .container-fluid{
     background-color: lightslategray;
+}
+
+.desc{
+    text-align: left;
 }
