@@ -4,7 +4,7 @@ h1{
 }
 
 body {
-    background-color: orangered;
+    background-color: lightsalmon;
 }
 .footer {
     position: fixed;
@@ -18,6 +18,8 @@ body {
 .pict{
     width: 325px;
     height: 310px;
+    border-style: dashed;
+    border-color: white;
 }
 
 .homepage{
@@ -55,3 +57,20 @@ body {
     width: 100px;
     height: 100px;
 }
+
+.dreamhome {
+    text-align: center;
+}
+
+.laststep {
+    float: right;
+    width: 325px
+}
+
+.box {
+    border-style: solid;
+    border-color: lightslategray;
+    text-align: center;
+}
+
+
