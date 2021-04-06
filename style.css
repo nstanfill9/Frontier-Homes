@@ -122,5 +122,40 @@ body {
   color: #fffdd0;
 }
 
+.fa{
+  padding: 20px;
+  font-size: 100px;
+  width: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.trittinfo {
+  position:  absolute;
+  bottom:  320px;
+  left: 500px;
+  font-size: 22px;
+}
+
+.stanfillinfo {
+  position: absolute;
+  font-size: 22px;
+  left: 500px;
+  bottom: 125px;
+}
+
+.teamtitle {
+  text-align: center;
+  margin: auto;
+  border-style: solid;
+  border-color: lightslategray;
+  width: 350px;
+}
+ .Email{
+  text-decoration:underline;
+}
+.Phone{
+  text-decoration:underline;
+}
   
   
