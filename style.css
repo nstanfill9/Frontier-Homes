@@ -3,10 +3,10 @@ h1{
 
 }
 
-body {
+body{
     background-color: lightsalmon;
 }
-.footer {
+.footer{
     position: fixed;
     left: 0;
     bottom: 0;
@@ -40,16 +40,16 @@ body {
     height: 100px;
 }
 
-.dreamhome {
+.dreamhome{
     text-align: center;
 }
 
-.laststep {
+.laststep{
     float: right;
     width: 325px
 }
 
-.box {
+.box{
     border-style: solid;
     border-color: lightslategray;
     text-align: center;
@@ -63,7 +63,7 @@ body {
     margin-right: auto;
 }
 
-.column {
+.column{
     float: left;
     width: 33.3%;
     margin-bottom: 16px;
@@ -97,25 +97,25 @@ body {
 .title{
   color: grey;
 }
-.text {
+.text{
   text-align: center;
   
 }
 
-.frontier {
+.frontier{
   position: absolute;
   bottom: 650px;
   right: 1015px;
 }
 
-.homes {
+.homes{
   text-align: right;
   position: absolute;
   bottom: 650px;
   right: 165px;
 }
 
-.frontierhomes {
+.frontierhomes{
   font-size: 85px;
   font-style: italic;
   
@@ -131,39 +131,63 @@ body {
   text-decoration: none;
 }
 
-.trittinfo {
+.trittinfo{
   position:  absolute;
   bottom:  320px;
   left: 500px;
   font-size: 22px;
 }
 
-.stanfillinfo {
+.stanfillinfo{
   position: absolute;
   font-size: 22px;
   left: 500px;
   bottom: 125px;
 }
 
-.teamtitle {
+.teamtitle{
   text-align: center;
   margin: auto;
   border-style: solid;
   border-color: lightslategray;
   width: 350px;
 }
- .Email{
+ .Emai{
   text-decoration:underline;
 }
 .Phone{
   text-decoration:underline;
 }
 
-.actionshot {
+.actionshot{
   width: 325px;
   height: 400px;
+  border: groove;
+  border-color: lightslategray;
+}
+
+.actionshot2 {
+  width: 400px;
+  height: 400px;
+  border: groove;
+  border-color: lightslategray;
+}
+
+.designshop {
+  text-align: center;
+  color: #fffdd0;
+  font-size: 75px;
+}
+
+.designshopinfo {
+  text-align: center
+}
+
+.blueprint {
+  width: 310px; 
+  height: 325px;
   border: dotted;
-  border-color: lightslategray
+  border-color: lightslategray;
 }
   
   
