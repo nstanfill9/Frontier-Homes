@@ -189,5 +189,15 @@ body{
   border: dotted;
   border-color: lightslategray;
 }
+
+.designshoppic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 315px;
+  width: 425px;
+  border-style: dotted;
+  border-color: lightslategray;
+}
   
   
